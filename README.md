@@ -1,2 +1,2 @@
 # Data-Analysis-and-Visualization-with-Excel
-The repo contains data and analysis worksheets. Data source is from a uCertify course.
+The repo contains data and excel workbooks from an online course. Data source is from  uCertify.
